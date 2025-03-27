@@ -2,7 +2,7 @@ package com.rama.restaurant.entity;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "restaurant")
+@Table(name = "restaurants")
 public class Restaurant {
 
     @Id
